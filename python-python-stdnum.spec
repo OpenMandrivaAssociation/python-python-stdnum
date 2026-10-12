@@ -1,6 +1,6 @@
 Name:		python-python-stdnum
 Version:	2.2
-Release:	1
+Release:	2
 Summary:	Python module to handle standardized numbers and codes
 License:	LGPL-2.1-or-later
 Group:		Development/Python
